@@ -1,4 +1,4 @@
-pipeline {
+pipeline { 
     agent any
     environment { 
       DOCKER_ID = "dstdockerhub"
